@@ -3,13 +3,12 @@
 ## 👨‍💻 About Me 
 - 🎓 KDMHS 19HD, SKKU Software
 
-- 🔭 Currently working on: SKKUPASS
+- 🔭 Currently working on: SKKUBUS
 
 
 - 🌱 Currently learning
   - Flutter, Dart
-  - JS
-  - React
+  - Spring Boot
 
 
 
