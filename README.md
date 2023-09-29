@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning
   - Flutter, Dart
-  - Spring Boot
+  - Swift
 
 
 
