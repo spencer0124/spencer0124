@@ -3,12 +3,12 @@
 ## 👨‍💻 About Me 
 - 🎓 KDMHS 19HD, SKKU Software
 
-- 🔭 Currently working on: SKKUBUS
+- 💻 Currently working on: SKKUBUS
 
 
 - 🌱 Currently learning
   - Flutter, Dart
-  - Swift
+  - Swift 
 
 
 
