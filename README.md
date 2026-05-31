@@ -1,13 +1,12 @@
-# Hello, I'm SeungYong 👋
+# Hello, I'm SeungyongCho 👋
 
 ## 👨‍💻 About Me 
-- 🎓 KDMHS 19HD, SKKU Software
+- 🎓 KDMHS 19HD, SKKU CSE
 
-- 💻 Currently working on: SKKUBUS
-
+- 💻 Currently working on: skkuverse
 
 - 🌱 Currently learning
-  - Flutter, Dart
+  - TypeScript
   - Swift 
 
 
