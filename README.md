@@ -13,4 +13,4 @@
 
 
 ## 🛠️ Skills and Technologies 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spencer0124&layout=compact)
+![Top Langs](./profile/top-langs.svg)
